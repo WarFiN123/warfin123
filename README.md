@@ -1,30 +1,94 @@
-# 💫 About Me:
-🌱 I’m currently learning C++<br>
+<h1 align="center">Small Dev</h1>
 
+###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/warfin_123) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/WarFiN_123) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26422723/warfin) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/warfin_123) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/WarFiN8) 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WarFiN123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&custom_title=GitHub%20Stats" height="265" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=WarFiN123&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=true&border_radius=5" height="250" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WarFiN123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=true&custom_title=Languages%20Used" height="230" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WarFiN123&hide_border=true&theme=high-contrast&title_color=ffb000&line=ffb000&radius=169&area=true&area_color=785ef0" height="223" alt="activity-graph graph"  />
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat&logo=opensea&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=WarFiN123&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WarFiN123&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=WarFiN123&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/82953540?v=4"  />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=WarFiN123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cmake" height="30" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=WarFiN123&icon=6&color=12)](https://visitcount.itsvg.in)
+###
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/warfin) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/warfin) 
+<div align="left">
+  <a href="https://www.instagram.com/warfin_123/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/warfin_123" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://ko-fi.com/warfin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+  </a>
+</div>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/WarFiN123/WarFiN123/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/WarFiN123/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/WarFiN">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=WarFiN&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
