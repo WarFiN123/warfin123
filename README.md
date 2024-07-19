@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=30&pause=1000&color=F7F7F7&center=true&random=true&width=435&lines=Small+Dev" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?  font=Cascadia+Code&weight=900&size=30&pause=1000&color=F7F7F7&center=true&random=true&width=435&lines=Small+Dev" alt="Typing SVG" />
+</div>
 
 ###
 
