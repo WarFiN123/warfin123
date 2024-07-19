@@ -1,4 +1,4 @@
-<h1 align="center">Small Dev</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=30&pause=1000&color=F7F7F7&center=true&random=true&width=435&lines=Small+Dev" alt="Typing SVG" />
 
 ###
 
@@ -11,12 +11,12 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/82953540?v=4"  />
+<img align="right" height="150" style="border-radius: 10px;" src="https://avatars.githubusercontent.com/u/82953540?v=4"  />
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -61,13 +61,13 @@
 
 <div align="left">
   <a href="https://www.instagram.com/warfin_123/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" style="border-radius: 7px;" />
   </a>
   <a href="https://www.twitch.tv/warfin_123" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" style="border-radius: 7px; />
   </a>
   <a href="https://ko-fi.com/warfin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo" style="border-radius: 7px; />
   </a>
 </div>
 
@@ -80,14 +80,14 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/WarFiN123/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/WarFiN123/count.svg?" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/WarFiN">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=WarFiN&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hyf5lgwjp7q22mm6fwe6ejuzvq&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
