@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?  font=Cascadia+Code&weight=900&size=30&pause=1000&color=F7F7F7&center=true&random=true&width=435&lines=Small+Dev" alt="Typing SVG" />
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=30&pause=1000&color=F7F7F7&center=true&random=true&width=435&lines=Small+Dev" alt="Typing SVG" />
 </div>
 
 ###
@@ -24,6 +23,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
@@ -38,7 +39,21 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cmake" height="30" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
@@ -47,13 +62,13 @@
 
 <div align="left">
   <a href="https://www.instagram.com/warfin_123/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" style="border-radius: 200px;" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" style="border-radius: 7px;" />
   </a>
   <a href="https://www.twitch.tv/warfin_123" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" style="border-radius: 200px; />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" style="border-radius: 7px;" />
   </a>
   <a href="https://ko-fi.com/warfin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo" style="border-radius: 200px; />
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo" style="border-radius: 7px;" />
   </a>
 </div>
 
@@ -66,7 +81,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/WarFiN123/count.svg?" />
+  <img src="https://profile-counter.glitch.me/WarFiN123/count.svg?"  />
 </div>
 
 ###
