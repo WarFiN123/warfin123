@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=30&pause=1000&color=F7F7F7&center=true&random=true&width=435&lines=Small+Dev" alt="Typing SVG" /><br>
-  <img src="https://views-counter.vercel.app/badge?pageId=WarFiN123%2FViews-Counter&rightColor=ffb000" alt="Views Counter">
+  <img src="https://views-counter.vercel.app/badge?pageId=WarFiN123&leftColor=000000&rightColor=ffb000&type=unique&label=Visitors&style=none" alt="Views Counter">
 </p>
 
 <p align="center">
