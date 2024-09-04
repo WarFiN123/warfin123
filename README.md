@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=30&pause=1000&color=F7F7F7&center=true&random=true&width=435&lines=Small+Dev" alt="Typing SVG" /><br>
-  <img src="https://views-counter.vercel.app/badge?pageId=WarFiN123&leftColor=000000&rightColor=ffb000&type=unique&label=Visitors&style=none" alt="Views Counter">
+  <img src="https://komarev.com/ghpvc/?username=warfin123&label=Views&color=ffb000&style=flat" alt="smug246" />
 </p>
 
 <p align="center">
